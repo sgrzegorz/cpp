@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab4A.dir/main.cpp.o CMakeFiles/lab4A.dir/Punkt.cpp.o CMakeFiles/lab4A.dir/Figura.cpp.o CMakeFiles/lab4A.dir/Kolo.cpp.o CMakeFiles/lab4A.dir/Prostokat.cpp.o CMakeFiles/lab4A.dir/Kwadrat.cpp.o  -o lab4A 
