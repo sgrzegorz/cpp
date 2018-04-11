@@ -4,7 +4,6 @@
 
 
 class Punkt {
-private:
     double x,y;
 public:
     void setX(double x);

@@ -1,5 +1,6 @@
 #ifndef LAB4A_FIGURA_H
 #define LAB4A_FIGURA_H
+
 #include "Punkt.h"
 
 
@@ -14,7 +15,7 @@ public:
     virtual std::string opis();
     virtual double pole();
     virtual bool zapisz(std::ostream &os) const;
-    virtual bool wczytaj(std::istream is);
+    virtual bool wczytaj(std::istream &is);
 
 
 };

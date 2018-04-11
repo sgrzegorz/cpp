@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Figura.h"
-//#include "Kwadrat.h"
+#include "Punkt.h"
 
 int main() {
     Figura F = Figura("f",Punkt(1,2));
