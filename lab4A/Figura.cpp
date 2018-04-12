@@ -2,19 +2,26 @@
 
 using namespace std;
 
+void Figura::przesun(Punkt sr){
+    srodek = sr;
+}
 
+
+/*
 Figura::Figura(std::string etykieta,const Punkt &srodek) : srodek(srodek){
     this->srodek = Punkt(1,2);
     this->etykieta = etykieta;
+}
+
+
+Figura::Figura(){
+
 }
 
 Figura::~Figura(){
 
 }
 
-void Figura::przesun(Punkt sr){
-    srodek = sr;
-}
 
 std::string Figura::opis(){
     return etykieta + " ("+to_string(srodek.getX())+","+to_string(srodek.getY())+")";
@@ -36,3 +43,4 @@ bool Figura::wczytaj(std::istream &is){
     srodek.wczytaj(is);
     return true;
 }
+*/

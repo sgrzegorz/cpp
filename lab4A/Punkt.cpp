@@ -1,6 +1,7 @@
 #include "Punkt.h"
 using namespace std;
 
+Punkt::Punkt() {}
 
 void Punkt::setX(double x){
     this->x = x;

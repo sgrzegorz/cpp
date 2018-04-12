@@ -1,36 +1,31 @@
 #include "Kwadrat.h"
 using namespace std;
 
-Kwadrat::Kwadrat(std::string etykieta,const Punkt &srodek) : srodek(srodek){
-    this->srodek = Punkt(1,2);
-    this->etykieta = etykieta;
-}
-
-Figura::~Figura(){
+Kwadrat::Kwadrat(std::string etykieta,const Punkt &srodek,int a) : Figura(etykieta,srodek),a(a) {
 
 }
 
-void Figura::przesun(Punkt sr){
-    srodek = sr;
+Kwadrat::~Kwadrat(){
+
 }
 
-std::string Figura::opis(){
-    return etykieta + " ("+to_string(srodek.getX())+","+to_string(srodek.getY())+")";
+std::string Kwadrat::opis(){
+    return Figura::opis()+"a: " + to_string(a);
 }
 
-double Figura::pole(){
-    return 1;
+double Kwadrat::pole(){
+    return a * a;
 }
 
 
-bool Figura::zapisz(std::ostream &os) const{
-    os << etykieta;
-    srodek.zapisz(os);
+bool Kwadrat::zapisz(std::ostream &os) const{
+    Figura::zapisz(os);
+    os << a;
     return true;
 }
 
-bool Figura::wczytaj(std::istream &is){
-    is >> etykieta;
-    srodek.wczytaj(is);
+bool Prostokat::wczytaj(std::istream &is){
+    Figura::wczytaj(is);
+    is >> a;
     return true;
 }

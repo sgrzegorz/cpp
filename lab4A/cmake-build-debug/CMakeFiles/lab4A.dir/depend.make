@@ -10,11 +10,16 @@ CMakeFiles/lab4A.dir/Kolo.cpp.o: ../Kolo.cpp
 CMakeFiles/lab4A.dir/Kolo.cpp.o: ../Kolo.h
 CMakeFiles/lab4A.dir/Kolo.cpp.o: ../Punkt.h
 
+CMakeFiles/lab4A.dir/Kwadrat.cpp.o: ../Figura.h
 CMakeFiles/lab4A.dir/Kwadrat.cpp.o: ../Kwadrat.cpp
 CMakeFiles/lab4A.dir/Kwadrat.cpp.o: ../Kwadrat.h
+CMakeFiles/lab4A.dir/Kwadrat.cpp.o: ../Prostokat.h
+CMakeFiles/lab4A.dir/Kwadrat.cpp.o: ../Punkt.h
 
+CMakeFiles/lab4A.dir/Prostokat.cpp.o: ../Figura.h
 CMakeFiles/lab4A.dir/Prostokat.cpp.o: ../Prostokat.cpp
 CMakeFiles/lab4A.dir/Prostokat.cpp.o: ../Prostokat.h
+CMakeFiles/lab4A.dir/Prostokat.cpp.o: ../Punkt.h
 
 CMakeFiles/lab4A.dir/Punkt.cpp.o: ../Punkt.cpp
 CMakeFiles/lab4A.dir/Punkt.cpp.o: ../Punkt.h

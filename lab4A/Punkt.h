@@ -6,6 +6,7 @@
 class Punkt {
     double x,y;
 public:
+    Punkt();
     void setX(double x);
     double getX();
     double getY();
