@@ -3,37 +3,36 @@ using namespace std;
 int wlasciciel;
 int przebieg;
 
-void zapisz(istream & is) {
-    is  >>wlasciciel;
-    is >>przebieg;
-}
+class First{
 
-void wczytaj(ostream & os) {
-    os << wlasciciel;
-    os << przebieg;
-}
-
-class Punkt{
 public:
-    int x, y;
-
-    Punkt(int x,int y){
-        this->x =x;
-        this->y =y;
+    int b;
+    First(int a){
+        this->b =a;
     }
-
 };
 
-int main() {
+class Second{
+public:
+    First*p;
+   Second(const First &f) : p(new First(f)){
+   }
+};
 
-    zapisz(cin);
-    wczytaj(cout);
+
+int main() {
+    First a = First(1);
+    Second s = Second(First(100));
+    cout<<s.p->b;
+
+  //  Second s = Second(First());
+
     /*
     Punkt p = Punkt(1,2);
     Punkt q =p;
     p.x = 133;
     cout<< q.x;
 */
-
+    //cout<< s.p;
     return 0;
 }
