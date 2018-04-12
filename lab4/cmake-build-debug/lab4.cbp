@@ -84,34 +84,34 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/x/Documents/C++/lab4/Osoba.cpp">
+		<Unit filename="/home/x/Documents/C++/lab4/Figura.cpp">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/Osoba.h">
+		<Unit filename="/home/x/Documents/C++/lab4/Figura.h">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/Pojazd.cpp">
+		<Unit filename="/home/x/Documents/C++/lab4/Kolo.cpp">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/Pojazd.h">
+		<Unit filename="/home/x/Documents/C++/lab4/Kolo.h">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/PojazdOsobowy.cpp">
+		<Unit filename="/home/x/Documents/C++/lab4/Kwadrat.cpp">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/PojazdOsobowy.h">
+		<Unit filename="/home/x/Documents/C++/lab4/Kwadrat.h">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/PojazdSilnikowy.cpp">
+		<Unit filename="/home/x/Documents/C++/lab4/Prostokat.cpp">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/PojazdSilnikowy.h">
+		<Unit filename="/home/x/Documents/C++/lab4/Prostokat.h">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/Rower.cpp">
+		<Unit filename="/home/x/Documents/C++/lab4/Punkt.cpp">
 			<Option target="lab4"/>
 		</Unit>
-		<Unit filename="/home/x/Documents/C++/lab4/Rower.h">
+		<Unit filename="/home/x/Documents/C++/lab4/Punkt.h">
 			<Option target="lab4"/>
 		</Unit>
 		<Unit filename="/home/x/Documents/C++/lab4/main.cpp">

@@ -81,144 +81,144 @@ CMakeFiles/lab4.dir/main.cpp.o.provides: CMakeFiles/lab4.dir/main.cpp.o.requires
 CMakeFiles/lab4.dir/main.cpp.o.provides.build: CMakeFiles/lab4.dir/main.cpp.o
 
 
-CMakeFiles/lab4.dir/Osoba.cpp.o: CMakeFiles/lab4.dir/flags.make
-CMakeFiles/lab4.dir/Osoba.cpp.o: ../Osoba.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab4.dir/Osoba.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Osoba.cpp.o -c /home/x/Documents/C++/lab4/Osoba.cpp
+CMakeFiles/lab4.dir/Punkt.cpp.o: CMakeFiles/lab4.dir/flags.make
+CMakeFiles/lab4.dir/Punkt.cpp.o: ../Punkt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab4.dir/Punkt.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Punkt.cpp.o -c /home/x/Documents/C++/lab4/Punkt.cpp
 
-CMakeFiles/lab4.dir/Osoba.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Osoba.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Osoba.cpp > CMakeFiles/lab4.dir/Osoba.cpp.i
+CMakeFiles/lab4.dir/Punkt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Punkt.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Punkt.cpp > CMakeFiles/lab4.dir/Punkt.cpp.i
 
-CMakeFiles/lab4.dir/Osoba.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Osoba.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Osoba.cpp -o CMakeFiles/lab4.dir/Osoba.cpp.s
+CMakeFiles/lab4.dir/Punkt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Punkt.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Punkt.cpp -o CMakeFiles/lab4.dir/Punkt.cpp.s
 
-CMakeFiles/lab4.dir/Osoba.cpp.o.requires:
+CMakeFiles/lab4.dir/Punkt.cpp.o.requires:
 
-.PHONY : CMakeFiles/lab4.dir/Osoba.cpp.o.requires
+.PHONY : CMakeFiles/lab4.dir/Punkt.cpp.o.requires
 
-CMakeFiles/lab4.dir/Osoba.cpp.o.provides: CMakeFiles/lab4.dir/Osoba.cpp.o.requires
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Osoba.cpp.o.provides.build
-.PHONY : CMakeFiles/lab4.dir/Osoba.cpp.o.provides
+CMakeFiles/lab4.dir/Punkt.cpp.o.provides: CMakeFiles/lab4.dir/Punkt.cpp.o.requires
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Punkt.cpp.o.provides.build
+.PHONY : CMakeFiles/lab4.dir/Punkt.cpp.o.provides
 
-CMakeFiles/lab4.dir/Osoba.cpp.o.provides.build: CMakeFiles/lab4.dir/Osoba.cpp.o
-
-
-CMakeFiles/lab4.dir/Pojazd.cpp.o: CMakeFiles/lab4.dir/flags.make
-CMakeFiles/lab4.dir/Pojazd.cpp.o: ../Pojazd.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab4.dir/Pojazd.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Pojazd.cpp.o -c /home/x/Documents/C++/lab4/Pojazd.cpp
-
-CMakeFiles/lab4.dir/Pojazd.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Pojazd.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Pojazd.cpp > CMakeFiles/lab4.dir/Pojazd.cpp.i
-
-CMakeFiles/lab4.dir/Pojazd.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Pojazd.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Pojazd.cpp -o CMakeFiles/lab4.dir/Pojazd.cpp.s
-
-CMakeFiles/lab4.dir/Pojazd.cpp.o.requires:
-
-.PHONY : CMakeFiles/lab4.dir/Pojazd.cpp.o.requires
-
-CMakeFiles/lab4.dir/Pojazd.cpp.o.provides: CMakeFiles/lab4.dir/Pojazd.cpp.o.requires
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Pojazd.cpp.o.provides.build
-.PHONY : CMakeFiles/lab4.dir/Pojazd.cpp.o.provides
-
-CMakeFiles/lab4.dir/Pojazd.cpp.o.provides.build: CMakeFiles/lab4.dir/Pojazd.cpp.o
+CMakeFiles/lab4.dir/Punkt.cpp.o.provides.build: CMakeFiles/lab4.dir/Punkt.cpp.o
 
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o: CMakeFiles/lab4.dir/flags.make
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o: ../PojazdSilnikowy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o -c /home/x/Documents/C++/lab4/PojazdSilnikowy.cpp
+CMakeFiles/lab4.dir/Figura.cpp.o: CMakeFiles/lab4.dir/flags.make
+CMakeFiles/lab4.dir/Figura.cpp.o: ../Figura.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab4.dir/Figura.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Figura.cpp.o -c /home/x/Documents/C++/lab4/Figura.cpp
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/PojazdSilnikowy.cpp > CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.i
+CMakeFiles/lab4.dir/Figura.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Figura.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Figura.cpp > CMakeFiles/lab4.dir/Figura.cpp.i
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/PojazdSilnikowy.cpp -o CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.s
+CMakeFiles/lab4.dir/Figura.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Figura.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Figura.cpp -o CMakeFiles/lab4.dir/Figura.cpp.s
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.requires:
+CMakeFiles/lab4.dir/Figura.cpp.o.requires:
 
-.PHONY : CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.requires
+.PHONY : CMakeFiles/lab4.dir/Figura.cpp.o.requires
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.provides: CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.requires
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.provides.build
-.PHONY : CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.provides
+CMakeFiles/lab4.dir/Figura.cpp.o.provides: CMakeFiles/lab4.dir/Figura.cpp.o.requires
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Figura.cpp.o.provides.build
+.PHONY : CMakeFiles/lab4.dir/Figura.cpp.o.provides
 
-CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.provides.build: CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o
-
-
-CMakeFiles/lab4.dir/Rower.cpp.o: CMakeFiles/lab4.dir/flags.make
-CMakeFiles/lab4.dir/Rower.cpp.o: ../Rower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/lab4.dir/Rower.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Rower.cpp.o -c /home/x/Documents/C++/lab4/Rower.cpp
-
-CMakeFiles/lab4.dir/Rower.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Rower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Rower.cpp > CMakeFiles/lab4.dir/Rower.cpp.i
-
-CMakeFiles/lab4.dir/Rower.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Rower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Rower.cpp -o CMakeFiles/lab4.dir/Rower.cpp.s
-
-CMakeFiles/lab4.dir/Rower.cpp.o.requires:
-
-.PHONY : CMakeFiles/lab4.dir/Rower.cpp.o.requires
-
-CMakeFiles/lab4.dir/Rower.cpp.o.provides: CMakeFiles/lab4.dir/Rower.cpp.o.requires
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Rower.cpp.o.provides.build
-.PHONY : CMakeFiles/lab4.dir/Rower.cpp.o.provides
-
-CMakeFiles/lab4.dir/Rower.cpp.o.provides.build: CMakeFiles/lab4.dir/Rower.cpp.o
+CMakeFiles/lab4.dir/Figura.cpp.o.provides.build: CMakeFiles/lab4.dir/Figura.cpp.o
 
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o: CMakeFiles/lab4.dir/flags.make
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o: ../PojazdOsobowy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o -c /home/x/Documents/C++/lab4/PojazdOsobowy.cpp
+CMakeFiles/lab4.dir/Kolo.cpp.o: CMakeFiles/lab4.dir/flags.make
+CMakeFiles/lab4.dir/Kolo.cpp.o: ../Kolo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/lab4.dir/Kolo.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Kolo.cpp.o -c /home/x/Documents/C++/lab4/Kolo.cpp
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/PojazdOsobowy.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/PojazdOsobowy.cpp > CMakeFiles/lab4.dir/PojazdOsobowy.cpp.i
+CMakeFiles/lab4.dir/Kolo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Kolo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Kolo.cpp > CMakeFiles/lab4.dir/Kolo.cpp.i
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/PojazdOsobowy.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/PojazdOsobowy.cpp -o CMakeFiles/lab4.dir/PojazdOsobowy.cpp.s
+CMakeFiles/lab4.dir/Kolo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Kolo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Kolo.cpp -o CMakeFiles/lab4.dir/Kolo.cpp.s
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.requires:
+CMakeFiles/lab4.dir/Kolo.cpp.o.requires:
 
-.PHONY : CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.requires
+.PHONY : CMakeFiles/lab4.dir/Kolo.cpp.o.requires
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.provides: CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.requires
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.provides.build
-.PHONY : CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.provides
+CMakeFiles/lab4.dir/Kolo.cpp.o.provides: CMakeFiles/lab4.dir/Kolo.cpp.o.requires
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kolo.cpp.o.provides.build
+.PHONY : CMakeFiles/lab4.dir/Kolo.cpp.o.provides
 
-CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.provides.build: CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o
+CMakeFiles/lab4.dir/Kolo.cpp.o.provides.build: CMakeFiles/lab4.dir/Kolo.cpp.o
+
+
+CMakeFiles/lab4.dir/Prostokat.cpp.o: CMakeFiles/lab4.dir/flags.make
+CMakeFiles/lab4.dir/Prostokat.cpp.o: ../Prostokat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/lab4.dir/Prostokat.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Prostokat.cpp.o -c /home/x/Documents/C++/lab4/Prostokat.cpp
+
+CMakeFiles/lab4.dir/Prostokat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Prostokat.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Prostokat.cpp > CMakeFiles/lab4.dir/Prostokat.cpp.i
+
+CMakeFiles/lab4.dir/Prostokat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Prostokat.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Prostokat.cpp -o CMakeFiles/lab4.dir/Prostokat.cpp.s
+
+CMakeFiles/lab4.dir/Prostokat.cpp.o.requires:
+
+.PHONY : CMakeFiles/lab4.dir/Prostokat.cpp.o.requires
+
+CMakeFiles/lab4.dir/Prostokat.cpp.o.provides: CMakeFiles/lab4.dir/Prostokat.cpp.o.requires
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Prostokat.cpp.o.provides.build
+.PHONY : CMakeFiles/lab4.dir/Prostokat.cpp.o.provides
+
+CMakeFiles/lab4.dir/Prostokat.cpp.o.provides.build: CMakeFiles/lab4.dir/Prostokat.cpp.o
+
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.o: CMakeFiles/lab4.dir/flags.make
+CMakeFiles/lab4.dir/Kwadrat.cpp.o: ../Kwadrat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/lab4.dir/Kwadrat.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab4.dir/Kwadrat.cpp.o -c /home/x/Documents/C++/lab4/Kwadrat.cpp
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab4.dir/Kwadrat.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/x/Documents/C++/lab4/Kwadrat.cpp > CMakeFiles/lab4.dir/Kwadrat.cpp.i
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab4.dir/Kwadrat.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/x/Documents/C++/lab4/Kwadrat.cpp -o CMakeFiles/lab4.dir/Kwadrat.cpp.s
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.o.requires:
+
+.PHONY : CMakeFiles/lab4.dir/Kwadrat.cpp.o.requires
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.o.provides: CMakeFiles/lab4.dir/Kwadrat.cpp.o.requires
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kwadrat.cpp.o.provides.build
+.PHONY : CMakeFiles/lab4.dir/Kwadrat.cpp.o.provides
+
+CMakeFiles/lab4.dir/Kwadrat.cpp.o.provides.build: CMakeFiles/lab4.dir/Kwadrat.cpp.o
 
 
 # Object files for target lab4
 lab4_OBJECTS = \
 "CMakeFiles/lab4.dir/main.cpp.o" \
-"CMakeFiles/lab4.dir/Osoba.cpp.o" \
-"CMakeFiles/lab4.dir/Pojazd.cpp.o" \
-"CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o" \
-"CMakeFiles/lab4.dir/Rower.cpp.o" \
-"CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o"
+"CMakeFiles/lab4.dir/Punkt.cpp.o" \
+"CMakeFiles/lab4.dir/Figura.cpp.o" \
+"CMakeFiles/lab4.dir/Kolo.cpp.o" \
+"CMakeFiles/lab4.dir/Prostokat.cpp.o" \
+"CMakeFiles/lab4.dir/Kwadrat.cpp.o"
 
 # External object files for target lab4
 lab4_EXTERNAL_OBJECTS =
 
 lab4: CMakeFiles/lab4.dir/main.cpp.o
-lab4: CMakeFiles/lab4.dir/Osoba.cpp.o
-lab4: CMakeFiles/lab4.dir/Pojazd.cpp.o
-lab4: CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o
-lab4: CMakeFiles/lab4.dir/Rower.cpp.o
-lab4: CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o
+lab4: CMakeFiles/lab4.dir/Punkt.cpp.o
+lab4: CMakeFiles/lab4.dir/Figura.cpp.o
+lab4: CMakeFiles/lab4.dir/Kolo.cpp.o
+lab4: CMakeFiles/lab4.dir/Prostokat.cpp.o
+lab4: CMakeFiles/lab4.dir/Kwadrat.cpp.o
 lab4: CMakeFiles/lab4.dir/build.make
 lab4: CMakeFiles/lab4.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable lab4"
@@ -230,11 +230,11 @@ CMakeFiles/lab4.dir/build: lab4
 .PHONY : CMakeFiles/lab4.dir/build
 
 CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/main.cpp.o.requires
-CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Osoba.cpp.o.requires
-CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Pojazd.cpp.o.requires
-CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o.requires
-CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Rower.cpp.o.requires
-CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o.requires
+CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Punkt.cpp.o.requires
+CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Figura.cpp.o.requires
+CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Kolo.cpp.o.requires
+CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Prostokat.cpp.o.requires
+CMakeFiles/lab4.dir/requires: CMakeFiles/lab4.dir/Kwadrat.cpp.o.requires
 
 .PHONY : CMakeFiles/lab4.dir/requires
 

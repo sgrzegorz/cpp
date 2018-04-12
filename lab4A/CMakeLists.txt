@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.9)
-project(lab4A)
-
-set(CMAKE_CXX_STANDARD 11)
-
-add_executable(lab4A main.cpp Punkt.cpp Punkt.h Figura.cpp Figura.h Kolo.cpp Kolo.h Prostokat.cpp Prostokat.h Kwadrat.cpp Kwadrat.h)

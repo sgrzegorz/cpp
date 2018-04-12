@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/x/Documents/C++/lab4/Osoba.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Osoba.cpp.o"
-  "/home/x/Documents/C++/lab4/Pojazd.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Pojazd.cpp.o"
-  "/home/x/Documents/C++/lab4/PojazdOsobowy.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o"
-  "/home/x/Documents/C++/lab4/PojazdSilnikowy.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o"
-  "/home/x/Documents/C++/lab4/Rower.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Rower.cpp.o"
+  "/home/x/Documents/C++/lab4/Figura.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Figura.cpp.o"
+  "/home/x/Documents/C++/lab4/Kolo.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Kolo.cpp.o"
+  "/home/x/Documents/C++/lab4/Kwadrat.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Kwadrat.cpp.o"
+  "/home/x/Documents/C++/lab4/Prostokat.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Prostokat.cpp.o"
+  "/home/x/Documents/C++/lab4/Punkt.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Punkt.cpp.o"
   "/home/x/Documents/C++/lab4/main.cpp" "/home/x/Documents/C++/lab4/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

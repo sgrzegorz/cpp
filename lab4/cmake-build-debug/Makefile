@@ -123,140 +123,140 @@ lab4/fast:
 	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/build
 .PHONY : lab4/fast
 
-Osoba.o: Osoba.cpp.o
+Figura.o: Figura.cpp.o
 
-.PHONY : Osoba.o
-
-# target to build an object file
-Osoba.cpp.o:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Osoba.cpp.o
-.PHONY : Osoba.cpp.o
-
-Osoba.i: Osoba.cpp.i
-
-.PHONY : Osoba.i
-
-# target to preprocess a source file
-Osoba.cpp.i:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Osoba.cpp.i
-.PHONY : Osoba.cpp.i
-
-Osoba.s: Osoba.cpp.s
-
-.PHONY : Osoba.s
-
-# target to generate assembly for a file
-Osoba.cpp.s:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Osoba.cpp.s
-.PHONY : Osoba.cpp.s
-
-Pojazd.o: Pojazd.cpp.o
-
-.PHONY : Pojazd.o
+.PHONY : Figura.o
 
 # target to build an object file
-Pojazd.cpp.o:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Pojazd.cpp.o
-.PHONY : Pojazd.cpp.o
+Figura.cpp.o:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Figura.cpp.o
+.PHONY : Figura.cpp.o
 
-Pojazd.i: Pojazd.cpp.i
+Figura.i: Figura.cpp.i
 
-.PHONY : Pojazd.i
+.PHONY : Figura.i
 
 # target to preprocess a source file
-Pojazd.cpp.i:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Pojazd.cpp.i
-.PHONY : Pojazd.cpp.i
+Figura.cpp.i:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Figura.cpp.i
+.PHONY : Figura.cpp.i
 
-Pojazd.s: Pojazd.cpp.s
+Figura.s: Figura.cpp.s
 
-.PHONY : Pojazd.s
+.PHONY : Figura.s
 
 # target to generate assembly for a file
-Pojazd.cpp.s:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Pojazd.cpp.s
-.PHONY : Pojazd.cpp.s
+Figura.cpp.s:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Figura.cpp.s
+.PHONY : Figura.cpp.s
 
-PojazdOsobowy.o: PojazdOsobowy.cpp.o
+Kolo.o: Kolo.cpp.o
 
-.PHONY : PojazdOsobowy.o
+.PHONY : Kolo.o
 
 # target to build an object file
-PojazdOsobowy.cpp.o:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdOsobowy.cpp.o
-.PHONY : PojazdOsobowy.cpp.o
+Kolo.cpp.o:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kolo.cpp.o
+.PHONY : Kolo.cpp.o
 
-PojazdOsobowy.i: PojazdOsobowy.cpp.i
+Kolo.i: Kolo.cpp.i
 
-.PHONY : PojazdOsobowy.i
+.PHONY : Kolo.i
 
 # target to preprocess a source file
-PojazdOsobowy.cpp.i:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdOsobowy.cpp.i
-.PHONY : PojazdOsobowy.cpp.i
+Kolo.cpp.i:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kolo.cpp.i
+.PHONY : Kolo.cpp.i
 
-PojazdOsobowy.s: PojazdOsobowy.cpp.s
+Kolo.s: Kolo.cpp.s
 
-.PHONY : PojazdOsobowy.s
+.PHONY : Kolo.s
 
 # target to generate assembly for a file
-PojazdOsobowy.cpp.s:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdOsobowy.cpp.s
-.PHONY : PojazdOsobowy.cpp.s
+Kolo.cpp.s:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kolo.cpp.s
+.PHONY : Kolo.cpp.s
 
-PojazdSilnikowy.o: PojazdSilnikowy.cpp.o
+Kwadrat.o: Kwadrat.cpp.o
 
-.PHONY : PojazdSilnikowy.o
+.PHONY : Kwadrat.o
 
 # target to build an object file
-PojazdSilnikowy.cpp.o:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.o
-.PHONY : PojazdSilnikowy.cpp.o
+Kwadrat.cpp.o:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kwadrat.cpp.o
+.PHONY : Kwadrat.cpp.o
 
-PojazdSilnikowy.i: PojazdSilnikowy.cpp.i
+Kwadrat.i: Kwadrat.cpp.i
 
-.PHONY : PojazdSilnikowy.i
+.PHONY : Kwadrat.i
 
 # target to preprocess a source file
-PojazdSilnikowy.cpp.i:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.i
-.PHONY : PojazdSilnikowy.cpp.i
+Kwadrat.cpp.i:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kwadrat.cpp.i
+.PHONY : Kwadrat.cpp.i
 
-PojazdSilnikowy.s: PojazdSilnikowy.cpp.s
+Kwadrat.s: Kwadrat.cpp.s
 
-.PHONY : PojazdSilnikowy.s
+.PHONY : Kwadrat.s
 
 # target to generate assembly for a file
-PojazdSilnikowy.cpp.s:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/PojazdSilnikowy.cpp.s
-.PHONY : PojazdSilnikowy.cpp.s
+Kwadrat.cpp.s:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Kwadrat.cpp.s
+.PHONY : Kwadrat.cpp.s
 
-Rower.o: Rower.cpp.o
+Prostokat.o: Prostokat.cpp.o
 
-.PHONY : Rower.o
+.PHONY : Prostokat.o
 
 # target to build an object file
-Rower.cpp.o:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Rower.cpp.o
-.PHONY : Rower.cpp.o
+Prostokat.cpp.o:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Prostokat.cpp.o
+.PHONY : Prostokat.cpp.o
 
-Rower.i: Rower.cpp.i
+Prostokat.i: Prostokat.cpp.i
 
-.PHONY : Rower.i
+.PHONY : Prostokat.i
 
 # target to preprocess a source file
-Rower.cpp.i:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Rower.cpp.i
-.PHONY : Rower.cpp.i
+Prostokat.cpp.i:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Prostokat.cpp.i
+.PHONY : Prostokat.cpp.i
 
-Rower.s: Rower.cpp.s
+Prostokat.s: Prostokat.cpp.s
 
-.PHONY : Rower.s
+.PHONY : Prostokat.s
 
 # target to generate assembly for a file
-Rower.cpp.s:
-	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Rower.cpp.s
-.PHONY : Rower.cpp.s
+Prostokat.cpp.s:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Prostokat.cpp.s
+.PHONY : Prostokat.cpp.s
+
+Punkt.o: Punkt.cpp.o
+
+.PHONY : Punkt.o
+
+# target to build an object file
+Punkt.cpp.o:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Punkt.cpp.o
+.PHONY : Punkt.cpp.o
+
+Punkt.i: Punkt.cpp.i
+
+.PHONY : Punkt.i
+
+# target to preprocess a source file
+Punkt.cpp.i:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Punkt.cpp.i
+.PHONY : Punkt.cpp.i
+
+Punkt.s: Punkt.cpp.s
+
+.PHONY : Punkt.s
+
+# target to generate assembly for a file
+Punkt.cpp.s:
+	$(MAKE) -f CMakeFiles/lab4.dir/build.make CMakeFiles/lab4.dir/Punkt.cpp.s
+.PHONY : Punkt.cpp.s
 
 main.o: main.cpp.o
 
@@ -294,21 +294,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... lab4"
-	@echo "... Osoba.o"
-	@echo "... Osoba.i"
-	@echo "... Osoba.s"
-	@echo "... Pojazd.o"
-	@echo "... Pojazd.i"
-	@echo "... Pojazd.s"
-	@echo "... PojazdOsobowy.o"
-	@echo "... PojazdOsobowy.i"
-	@echo "... PojazdOsobowy.s"
-	@echo "... PojazdSilnikowy.o"
-	@echo "... PojazdSilnikowy.i"
-	@echo "... PojazdSilnikowy.s"
-	@echo "... Rower.o"
-	@echo "... Rower.i"
-	@echo "... Rower.s"
+	@echo "... Figura.o"
+	@echo "... Figura.i"
+	@echo "... Figura.s"
+	@echo "... Kolo.o"
+	@echo "... Kolo.i"
+	@echo "... Kolo.s"
+	@echo "... Kwadrat.o"
+	@echo "... Kwadrat.i"
+	@echo "... Kwadrat.s"
+	@echo "... Prostokat.o"
+	@echo "... Prostokat.i"
+	@echo "... Prostokat.s"
+	@echo "... Punkt.o"
+	@echo "... Punkt.i"
+	@echo "... Punkt.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

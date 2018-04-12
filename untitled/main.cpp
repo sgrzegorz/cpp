@@ -19,11 +19,22 @@ public:
    }
 };
 
+bool zapisz(std::ostream &os) {
+
+        os << "ffff";
+
+    if(os.good()) return false;
+
+    return true;
+}
 
 int main() {
-    First a = First(1);
-    Second s = Second(First(100));
-    cout<<s.p->b;
+
+    cout<<zapisz(cout);
+//
+//    First a = First(1);
+//    Second s = Second(First(100));
+//    cout<<s.p->b;
 
   //  Second s = Second(First());
 

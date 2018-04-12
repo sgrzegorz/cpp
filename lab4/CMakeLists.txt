@@ -3,4 +3,4 @@ project(lab4)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(lab4 main.cpp Osoba.cpp Osoba.h Pojazd.cpp Pojazd.h PojazdSilnikowy.cpp PojazdSilnikowy.h Rower.cpp Rower.h PojazdOsobowy.cpp PojazdOsobowy.h)
+add_executable(lab4 main.cpp Punkt.cpp Punkt.h Figura.cpp Figura.h Kolo.cpp Kolo.h Prostokat.cpp Prostokat.h Kwadrat.cpp Kwadrat.h)

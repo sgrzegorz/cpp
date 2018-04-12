@@ -195,6 +195,12 @@ ProcessorCount_cmd_getconf:FILEPATH=/usr/bin/getconf
 ProcessorCount_cmd_sysctl:FILEPATH=/sbin/sysctl
 
 //Value Computed by CMake
+lab4A_BINARY_DIR:STATIC=/home/x/Documents/C++/lab4/cmake-build-debug
+
+//Value Computed by CMake
+lab4A_SOURCE_DIR:STATIC=/home/x/Documents/C++/lab4
+
+//Value Computed by CMake
 lab4_BINARY_DIR:STATIC=/home/x/Documents/C++/lab4/cmake-build-debug
 
 //Value Computed by CMake
