@@ -5,7 +5,6 @@
 namespace fig {
     class Kwadrat : public Prostokat {
     protected:
-        double a;
     public:
         Kwadrat(std::string etykieta, const Punkt &srodek, int a);
 

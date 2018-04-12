@@ -14,7 +14,7 @@ namespace fig {
     }
 
     double Punkt::getY() const {
-        return x;
+        return y;
     }
 
     Punkt::Punkt(int x, int y) {

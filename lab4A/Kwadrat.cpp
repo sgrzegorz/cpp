@@ -20,12 +20,15 @@ namespace fig {
 
 
     bool Kwadrat::zapisz(std::ostream &os) const {
-        Prostokat::zapisz(os);
+        Figura::zapisz(os);
+        os << a;
         return true;
     }
 
     bool Kwadrat::wczytaj(std::istream &is) {
-        Prostokat::wczytaj(is);
+        Figura::wczytaj(is);
+        cout<<"a:";
+        is >> this->a;
         return true;
     }
 }

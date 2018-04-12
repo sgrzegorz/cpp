@@ -6,9 +6,9 @@ namespace fig {
 
 
     class Prostokat : public Figura {
-        //double b;
+        double b;
     protected:
-        double a,b;
+        double a;
     public:
         Prostokat(std::string etykieta, const Punkt &srodek, int a, int b);
 
