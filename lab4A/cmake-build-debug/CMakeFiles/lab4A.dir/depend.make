@@ -25,6 +25,9 @@ CMakeFiles/lab4A.dir/Punkt.cpp.o: ../Punkt.cpp
 CMakeFiles/lab4A.dir/Punkt.cpp.o: ../Punkt.h
 
 CMakeFiles/lab4A.dir/main.cpp.o: ../Figura.h
+CMakeFiles/lab4A.dir/main.cpp.o: ../Kolo.h
+CMakeFiles/lab4A.dir/main.cpp.o: ../Kwadrat.h
+CMakeFiles/lab4A.dir/main.cpp.o: ../Prostokat.h
 CMakeFiles/lab4A.dir/main.cpp.o: ../Punkt.h
 CMakeFiles/lab4A.dir/main.cpp.o: ../main.cpp
 

@@ -1,7 +1,7 @@
 #include "Kwadrat.h"
 using namespace std;
 
-Kwadrat::Kwadrat(std::string etykieta,const Punkt &srodek,int a) : Figura(etykieta,srodek),a(a) {
+Kwadrat::Kwadrat(std::string etykieta,const Punkt &srodek,int a) : Prostokat(etykieta,srodek,a,a) {
 
 }
 
@@ -19,13 +19,11 @@ double Kwadrat::pole(){
 
 
 bool Kwadrat::zapisz(std::ostream &os) const{
-    Figura::zapisz(os);
-    os << a;
+    Prostokat::zapisz(os);
     return true;
 }
 
-bool Prostokat::wczytaj(std::istream &is){
-    Figura::wczytaj(is);
-    is >> a;
+bool Kwadrat::wczytaj(std::istream &is){
+    Prostokat::wczytaj(is);
     return true;
 }

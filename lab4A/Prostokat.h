@@ -11,7 +11,9 @@ public:
     Prostokat(std::string etykieta,const Punkt & srodek,int a, int b);
     ~Prostokat();
     std::string opis();
-    double pole();
+    double pole(){
+        return a*b;
+    }
     bool zapisz(std::ostream &os) const;
     bool wczytaj(std::istream &is);
 };

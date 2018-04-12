@@ -12,11 +12,11 @@ Prostokat::~Prostokat(){
 std::string Prostokat::opis(){
     return Figura::opis()+"a: " + to_string(a) + "b: " + to_string(b);
 }
-
-double Prostokat::pole(){
+/*
+virtual double Prostokat::pole(){
     return a * b;
 }
-
+*/
 
 bool Prostokat::zapisz(std::ostream &os) const{
     Figura::zapisz(os);
