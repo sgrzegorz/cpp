@@ -14,7 +14,7 @@ template<typename T>void List<T>::insert(T val) {
 }
 
 template<typename T>void List<T>::del() {
-    if (root == NULL) throw new ListException();
+    if (root == NULL) throw ListException();
     Node<T> *q = root;
     root = root->getNext();
     delete q;

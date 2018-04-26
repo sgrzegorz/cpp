@@ -32,8 +32,8 @@ template<typename T> List<T>::~List(){
     Node<T>* p = this->root;
     while(p!=NULL){
         Node<T> *q = p;
-        delete q;
         p = p->getNext();
+        delete q;
     }
 }
 
